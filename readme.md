@@ -1,3 +1,5 @@
+#Conky Theme For Linux
+
 put the conky.conf file in ~/.config/conky
 
 if conky folder is not there create a new folder named conky in .config directory
@@ -11,10 +13,13 @@ required depency
 
 #Debain Based Disros (Ubuntu, Linuxmint, Zorin, Kali,etc)
 
-sudo apt install conky-all
+> sudo apt install conky-all
 
 
 if you want to further customize the script go to
 https://conky.sourceforge.net/variables.html
+
+![preview](https://user-images.githubusercontent.com/76923011/194838201-80ed44cd-2450-4bf3-a96d-c9fb9902d301.png)
+
 
 
