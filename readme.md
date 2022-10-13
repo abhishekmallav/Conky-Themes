@@ -10,8 +10,10 @@
 
 
 * required depency Debain Based Disros (Ubuntu, Linuxmint, Zorin, Kali,etc)
-> sudo apt install conky-all
 
+```
+sudo apt install conky-all
+```
 ### if you want to further customize the script go to
 https://conky.sourceforge.net/variables.html
 
