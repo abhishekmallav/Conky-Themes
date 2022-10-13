@@ -12,7 +12,7 @@
 * required depency Debain Based Disros (Ubuntu, Linuxmint, Zorin, Kali,etc)
 > sudo apt install conky-all
 
-## if you want to further customize the script go to
+### if you want to further customize the script go to
 https://conky.sourceforge.net/variables.html
 
 ![preview](https://user-images.githubusercontent.com/76923011/194838201-80ed44cd-2450-4bf3-a96d-c9fb9902d301.png)
