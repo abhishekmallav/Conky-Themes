@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=conky -c "$HOME/.config/conky/conky.conf"
+X-GNOME-Autostart-enabled=true
+NoDisplay=false
+Hidden=false
+Name[en_IN]=conky.desktop
+Comment[en_IN]=system monitor
+X-GNOME-Autostart-Delay=0
