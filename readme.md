@@ -26,8 +26,6 @@ sudo apt install conky-all
 - download and copy the folder to ~/.config/conky
 - run the conky.sh script
 
-
-
 ### If you want to further customize the script go to
 
 * https://conky.sourceforge.net/variables.html
