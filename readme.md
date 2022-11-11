@@ -42,3 +42,8 @@ sudo apt install conky-all
 ## conky-remix-v2
 
 ![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-03.png)
+
+
+![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-01-full.png)
+![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-02-full.png)
+![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-03-full.png)
