@@ -31,14 +31,14 @@ sudo apt install conky-all
 * https://conky.sourceforge.net/variables.html
 * https://github.com/fisadev/conky-draw
 
-#### conky-remix
+## conky-remix
 
 ![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-01.png)
 
-### conky-remix-v1
+## conky-remix-v1
 
 ![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-02.png)
 
-#### conky-remix-v2
+## conky-remix-v2
 
 ![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-03.png)
