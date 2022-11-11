@@ -35,4 +35,10 @@ sudo apt install conky-all
 
 ### conky with lua
 
-![]()
+![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-04.png)
+
+
+
+#### conky with lua and background
+
+![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-02.png)
