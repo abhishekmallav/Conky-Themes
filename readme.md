@@ -6,7 +6,7 @@
 sudo apt install conky-all
 ```
 
-## conky-remix
+## classy
 
 * put the conky.conf file in ~/.config/conky
 
@@ -16,12 +16,12 @@ sudo apt install conky-all
 
 * If you want to autostart conky on startup put conky.desktop in ~/.config/autostart
 
-## conky-remix-v1 (Lua Rings)
+## compile-v1 (Lua Rings)
 
 - download and copy the folder to ~/.config/conky
 - run the conky.sh script
 
-## conky-remix-v2 (Lua Rings and Background)
+## compile-v2 (Lua Rings and Background)
 
 - download and copy the folder to ~/.config/conky
 - run the conky.sh script
@@ -31,18 +31,17 @@ sudo apt install conky-all
 * https://conky.sourceforge.net/variables.html
 * https://github.com/fisadev/conky-draw
 
-## conky-remix
+## classy
 
 ![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-01.png)
 
-## conky-remix-v1
+## compile-v1
 
 ![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-02.png)
 
-## conky-remix-v2
+## compile-v2
 
 ![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-03.png)
-
 
 ![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-01-full.png)
 ![](https://github.com/abhishek-mallav/conky-remix/blob/main/Preview/preview-02-full.png)
