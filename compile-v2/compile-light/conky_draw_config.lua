@@ -459,11 +459,11 @@ elements = {
     to = {x = 380, y = 493},
 
     background_thickness = 2,
-    background_color = 0x301934,
+    background_color = 0xE91E63,
     background_alpha = 0.2,
 
     bar_thickness = 10,
-    bar_color = 0x301934,
+    bar_color = 0xE91E63,
     bar_alpha = 0.8,
 
     critical_threshold = 80,
