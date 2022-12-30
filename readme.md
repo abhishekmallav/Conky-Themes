@@ -17,7 +17,7 @@ sudo apt install conky-all
 * https://conky.sourceforge.net/variables.html
 * https://github.com/fisadev/conky-draw
 
-## [Classy]([conky-themes/classy at main · abhishek-mallav/conky-themes · GitHub](https://github.com/abhishek-mallav/conky-themes/tree/main/classy))
+## [Classy](https://github.com/abhishek-mallav/conky-themes/tree/main/classy)
 
 <img title="" src="https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/classy%20full.png" alt="" data-align="inline">
 
