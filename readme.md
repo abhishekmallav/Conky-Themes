@@ -13,8 +13,8 @@ sudo apt install conky-all
 * if conky folder is not there create a new folder named conky in .config directory
 
 * .config directory is a hidden directory present in HOME diretory
-
-* If you want to autostart conky on startup put conky.desktop in ~/.config/autostart
+  
+  ![]()
 
 ## compile-v1 (Lua Rings)
 
