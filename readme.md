@@ -25,7 +25,7 @@ sudo apt install conky-all
 
 ---
 
-## Compile v1
+## [Compile v1](https://github.com/abhishek-mallav/conky-themes/tree/main/compile-v1)
 
 ![](https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/compile-v1%20full.png)
 
@@ -33,7 +33,7 @@ sudo apt install conky-all
 
 ---
 
-## Compile v2
+## [Compile v2](https://github.com/abhishek-mallav/conky-themes/tree/main/compile-v2)
 
 ![](https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/compile-v2.png)
 
