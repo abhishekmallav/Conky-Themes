@@ -19,24 +19,24 @@ sudo apt install conky-all
 
 ## Classy
 
-<img title="" src="file:///home/natalie/.config/marktext/images/ca001b576a2d93373e2c8426100af6702b122d19.png" alt="" data-align="inline">
+<img title="" src="https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/classy%20full.png" alt="" data-align="inline">
 
-![](/home/natalie/.config/marktext/images/c8744f78ba0a1c9e85957d708541a91b67ebc170.png)
+![](https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/classy.png)
 
 ---
 
 ## Compile v1
 
-![](/home/natalie/.config/marktext/images/22d05e1c78317b3222cc81e85aaf5d73202b36b3.png)
+![](https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/compile-v1%20full.png)
 
-![](/home/natalie/.config/marktext/images/65a7f093d906daf9ba57901653e354648c6274de.png)
+![](https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/compile-v1.png)
 
 ---
 
 ## Compile v2
 
-![](/home/natalie/.config/marktext/images/7203f354acdd2068b18188f5a5f14a757e82d03d.png)
+![](https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/compile-v2.png)
 
-![](/home/natalie/.config/marktext/images/93c9436e20eebea01fb56b8513689e8a4dff93c8.png)
+![](https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/compile-v2%20light.png)
 
-![](/home/natalie/.config/marktext/images/93c9436e20eebea01fb56b8513689e8a4dff93c8.png)
+![](https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/compile-v2%20dark.png)
