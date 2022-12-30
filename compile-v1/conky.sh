@@ -1,5 +1,5 @@
 #!/bin/bash
 
 killall conky	
-cd /home/natalie/.config/conky/conky-remix-v1
+cd ~/.config/conky/compile-v1
 conky -c conky.conf
