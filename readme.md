@@ -6,7 +6,7 @@
    sudo apt install conky-all
    ```
 
-2. put the conky.conf file in ~/.config/conky
+2. copy the conky-theme (ex vistar-theme) folder to HOME/.config/conky
    
    * *if conky folder is not there create a new folder named conky in .config directory*
    
@@ -14,7 +14,7 @@
 
 3. If you want to autostart conky at login/startup
    
-   * copy Conky.desktop file to .config/autostart
+   * *copy Conky.desktop file to HOME/.config/autostart*
 
 ### If you want to further customize the script refer the below documentation
 
@@ -24,7 +24,5 @@
 ## [Vistar-Theme](https://github.com/abhishek-mallav/conky-themes/tree/main/vistar-theme)
 
 <img title="" src="https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/conky-01.png" alt="" data-align="inline">
-
-
 
 ---
