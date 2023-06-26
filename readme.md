@@ -5,12 +5,16 @@
    ```bash
    sudo apt install conky-all
    ```
+
 2. put the conky.conf file in ~/.config/conky
+   
    * *if conky folder is not there create a new folder named conky in .config directory*
    
    * *.config directory is a hidden directory present in HOME directory*
+
 3. If you want to autostart conky at login/startup
-   * copy conky.desktop to .config/autostart
+   
+   * copy Conky file to .config/autostart
 
 ### If you want to further customize the script refer the below documentation
 
