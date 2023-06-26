@@ -6,7 +6,7 @@
    sudo apt install conky-all
    ```
 
-2. copy the conky-theme (ex vistar-theme) folder to HOME/.config/conky
+2. copy the conky-theme (example vistar-theme) folder to HOME/.config/conky
    
    * *if conky folder is not there create a new folder named conky in .config directory*
    
