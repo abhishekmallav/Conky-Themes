@@ -23,8 +23,8 @@
 
 ## [Vistar-Theme](https://github.com/abhishek-mallav/conky-themes/tree/main/vistar-theme)
 
-<img title="" src="https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/classy%20full.png" alt="" data-align="inline">
+<img title="" src="https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/conky-01.png" alt="" data-align="inline">
 
-![](https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/classy.png)
+
 
 ---
