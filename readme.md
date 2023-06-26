@@ -14,7 +14,7 @@
 
 3. If you want to autostart conky at login/startup
    
-   * copy Conky file to .config/autostart
+   * copy Conky.desktop file to .config/autostart
 
 ### If you want to further customize the script refer the below documentation
 
