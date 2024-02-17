@@ -21,7 +21,7 @@
 * https://conky.sourceforge.net/variables.html
 * https://github.com/fisadev/conky-draw
 
-## [Vistar-Theme](https://github.com/abhishek-mallav/conky-themes/tree/main/vistar-theme)
+## [Vistar-Theme](https://github.com/abhishek-mallav/conky-themes/tree/main/vistar-theme)                            [Vistar-Theme-Dark](https://github.com/abhishek-mallav/conky-themes/tree/main/vistar-theme-dark)
 
 <img title="" src="https://github.com/abhishek-mallav/conky-themes/blob/main/Preview/vistar-theme.png" alt="" data-align="inline">
 
