@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Exec=/home/natalie/.config/conky/vistar-theme/conky.sh
-X-GNOME-Autostart-enabled=true
-NoDisplay=false
-Hidden=false
-Name[en_IN]=Conky
-Comment[en_IN]=conky
-X-GNOME-Autostart-Delay=0
